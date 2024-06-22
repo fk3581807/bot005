@@ -1,15 +1,8 @@
 {
   "version": 2,
-    {
-      "src": "bot.py",
-      "use": "pkg.json",
-      "config": {
-        "browserslist": "defaults"
-      }
-    }
   "routes": [
     {
-      "src": "/",
+      "src": "bot.py",
       "dest": "bot.py"
     },
     {
