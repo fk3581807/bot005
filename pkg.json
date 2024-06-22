@@ -1,3 +1,7 @@
+"scripts": {
+  "build": "python -m pyinstaller --onefile bot.py",
+  "start": "node index.js"
+}
 {
   "name": "@vercel/build-utils/babel",
   "version": "1.0.0",
