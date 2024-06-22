@@ -3,7 +3,7 @@
   "routes": [
     {
       "src": "bot.py",
-      "dest": "bot.py"
+      "dest": "dest.py"
     },
     {
       "src": "/webhook",
