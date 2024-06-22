@@ -6,7 +6,6 @@
     "command": "bot.py"
   }
 }
-  },
   "devDependencies": {
     "babel-core": "^7.10.3",
     "babel-preset-env": "^1.7.0",
